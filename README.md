@@ -1,4 +1,4 @@
-# wppoolTest
+# WppoolTest
 Automated testing of a WordPress plugin using Selenium 
 
 Codebase is in the master branch.
