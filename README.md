@@ -12,7 +12,7 @@ If you have another chrome version for testing like me, you add your path instea
 4. None should share login credentials. I used .env file to keep the credentials within my local machine. Git doesn't push .env file to github respositories. You should have your .env file. Intructions are given in the .env.example file.
 
 Follow these steps to run:
-1. 'git clone https://github.com/2017331080/wppoolTest.git`
+1. Copy and paste this command from terminal: `git clone https://github.com/2017331080/wppoolTest.git`
 2. Open the project with Eclipse.
 3. Go to AutomationTesting.java file.
 4. Run the code.
