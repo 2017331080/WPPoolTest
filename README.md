@@ -14,7 +14,7 @@ If you have another chrome version for testing like me, you add your path instea
 Follow these steps to run:
 1. Copy and paste this command from terminal: `git clone https://github.com/2017331080/wppoolTest.git`
 2. Open the project with Eclipse.
-3. Go to AutomationTesting.java file.
+3. Go to `AutomationTesting.java` file.
 4. Run the code.
 
 To be noted:
