@@ -2,8 +2,9 @@
 Automated testing of a WordPress plugin using Selenium 
 
 Codebase is in the master branch.
+There is a short (2.5 minutes) demonstration video (mp4) in the main branch.
 
-Requirements:
+Project Requirements:
 1. Your chrome-driver and chrome browser should be compatible.
 2. If you use your default chrome browser for testing and don't have another version of chrome browser, you need remove the line:
 `options.setBinary("/home/nasif/Downloads/chrome-linux64/chrome");`
@@ -11,7 +12,7 @@ If you have another chrome version for testing like me, you add your path instea
 3. The chrome-driver location for me is `/usr/local/bin/chromedriver`. You should set yours.
 4. None should share login credentials. I used a `.env` file to keep the credentials within my local machine. Git doesn't push .env file to github respositories. You should have your `.env` file. Intructions are given in the `.env.example` file.
 
-Follow these steps to run:
+Follow these steps to run the project:
 1. Copy and paste this command from terminal: `git clone https://github.com/2017331080/wppoolTest.git`
 2. Open the project with Eclipse.
 3. Go to `AutomationTesting.java` file.
