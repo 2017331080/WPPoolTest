@@ -10,7 +10,7 @@ Project Requirements:
 `options.setBinary("/home/nasif/Downloads/chrome-linux64/chrome");`
 If you have another chrome version for testing like me, you should add your path replacing mine.
 3. The chrome-driver location for me is `/usr/local/bin/chromedriver` (OS - Ubuntu). You should set yours.
-4. None should share login credentials on a public github repository. I used a `.env` file to keep my credentials within my local machine. Git doesn't push .env file to github respositories. You should create your `.env` file. Intructions are given in the `.env.example` file.
+4. None should share login credentials on a public github repository. I used a `.env` file to keep my credentials within my local machine. Git doesn't push .env file to github respositories. You should create your `.env` file. Instructions are given in the `.env.example` file.
 
 Follow these steps to run the project:
 1. Copy and paste this command from terminal: `git clone https://github.com/2017331080/wppoolTest.git`
